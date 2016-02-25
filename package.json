@@ -1,0 +1,16 @@
+{
+  "name": "googlestreetviewnodejs",
+  "version": "1.0.0",
+  "description": "web site to serve a goolge map street view with ios device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BoCheng Huang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*",
+    "leapjs": "*"
+  }
+}
